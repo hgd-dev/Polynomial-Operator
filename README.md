@@ -8,11 +8,11 @@ The **Polynomial Operator** is an automation tool that collectivizes common poly
 
 For casual users, this only downloads an executable app for easy access, suited to your OS. This format removes the tedium of extra installations, configurations, or compilations.
 
-***Important Note:*** For some systems with auto-protection or malware scanners, the executable may be flagged as unknown. For users to continue, simply bypass (ex. clicking "Run Anyway"). The source code is all in this repository and I assure all that this project has no harmful intentions.
-
 [![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://github.com/hgd-dev/Polynomial-Operator/actions/runs/18363655326/artifacts/4221895537)
 [![macOS](https://img.shields.io/badge/Download-macOS-red?style=for-the-badge&logo=apple)](https://github.com/hgd-dev/Polynomial-Operator/actions/runs/18363655326/artifacts/4221890942)
 [![Linux](https://img.shields.io/badge/Download-Linux-green?style=for-the-badge&logo=linux)](https://github.com/hgd-dev/Polynomial-Operator/actions/runs/18363655326/artifacts/4221890648)
+
+***Important Note:*** For some systems with auto-protection or malware scanners, the executable may be flagged as unknown. For users to continue, simply bypass (ex. clicking "Run Anyway"). The source code is all in this repository and I assure all that this project has no harmful intentions.
 
 ***Caveat for all runs:*** This project has automatic input fail-safe detectors to ensure smooth running and correct input of data. While it is built-in to catch typos or mistaken keystrokes, please refrain from deliberately attempting to break the program or use corrupted data. Undefined behavior can have unintended consequences.
 
@@ -93,5 +93,6 @@ g++ -std=c++17 polynomial_operator.cpp -o PolynomialOperator.exe
 ./PolynomialOperator   # or NewtonPolygonizer.exe on Windows
 
 ```
+
 
 
