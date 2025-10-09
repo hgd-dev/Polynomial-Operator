@@ -3,6 +3,7 @@
 #include <deque>
 #include <set>
 #include <algorithm>
+#include <climits>
 #include <numeric>
 #include <string>
 #include <sstream>
@@ -494,4 +495,5 @@ int main() {
         else { cout << "\n\"" << key_pressed << "\" is an invalid key enter! Attempt aborted.\n"; }
     }
     return 0;
+
 }
