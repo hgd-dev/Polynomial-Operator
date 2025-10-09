@@ -90,9 +90,10 @@ g++ -std=c++17 polynomial_operator.cpp -o PolynomialOperator.exe
 **Run:**
 
 ```bash
-./PolynomialOperator   # or NewtonPolygonizer.exe on Windows
+./PolynomialOperator   # or PolynomialOperator.exe on Windows
 
 ```
+
 
 
 
