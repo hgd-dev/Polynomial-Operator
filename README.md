@@ -75,7 +75,7 @@ make
 ./PolynomialOperator
 ```
 
-### **2. Single-file Version (graph_operator.cpp)**
+### **2. Single-file Version (polynomial_operator.cpp)**
 
 **Compile:**
 
